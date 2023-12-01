@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "esensisolusibuana"
+version = "0.1.0"
+description = "Technical Test"
+authors = ["Prima"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+robotframework = ">=3.2,<4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
