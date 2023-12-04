@@ -29,4 +29,6 @@ Welcome to the Esensi Solusi Buana project repository! This repository contains 
 
 ### Running test
 
-run command 
+Run command
+   ```bash
+   poetry run robot suiteTest.robot
